@@ -1,0 +1,2 @@
+# CodingJournety
+Coded by myself
