@@ -1,2 +1,2 @@
-# CodingJournety
+# CodingJourney
 Coded by myself
