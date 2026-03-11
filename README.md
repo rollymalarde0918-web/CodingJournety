@@ -1,2 +1,0 @@
-# CodingJourney
-Coded by myself
